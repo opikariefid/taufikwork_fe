@@ -1,0 +1,42 @@
+{
+  "name": "belajarnext",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@fontsource/inter": "^4.5.11",
+    "@fontsource/montserrat": "^4.5.11",
+    "@fontsource/poppins": "^4.5.8",
+    "@fontsource/quicksand": "^4.5.10",
+    "@mui/material": "^5.8.4",
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.1",
+    "moment": "^2.29.3",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-currency-format": "^1.1.0",
+    "react-dom": "18.1.0",
+    "react-icons": "^4.4.0",
+    "react-moment": "^1.1.2",
+    "react-number-format": "^4.9.3",
+    "react-pretty-numbers": "^3.0.0",
+    "remixicon-react": "^1.0.0",
+    "swiper": "^8.3.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "sass": "^1.52.3",
+    "tailwindcss": "^3.1.2"
+  }
+}
